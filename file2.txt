@@ -1,1 +1,1 @@
-This is File 2.txt.
+Content of File 2.
